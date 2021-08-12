@@ -9,7 +9,7 @@
 
 ### Login to the app
 - Admin: username: admin / password: qwerty
-- Client 1: username: client / password: qwerty
+- Client: username: client / password: qwerty
 
 
 ##### Local installation with expo
